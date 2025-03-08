@@ -1,0 +1,2763 @@
+<html><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/png" href="/web/assets/icon64.png">
+
+    <link rel="icon" type="image/png" sizes="64x64" href="/web/assets/icon64.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/assets/icon180.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/web/assets/icon152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/assets/icon180.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/web/assets/icon167.png">
+
+    <meta itemprop="name" content="Чат знакомств Galaxy | Находи новых людей, общайся, заводи друзей">
+    <meta name="description" content="Зарегистрируйся бесплатно и без номера телефона. В приложении нет рекламы и подписок - смотри сколько угодно анкет и общайся без ограничений.">
+    <meta name="author" content="ООО Мобилфон">
+    <meta name="keywords" content="галактика знакомств, javagala, знакомства, чат, общение онлайн, персонажи">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Чат знакомств Galaxy | Находи новых людей, общайся, заводи друзей">
+    <meta property="og:description" content="Зарегистрируйся бесплатно и без номера телефона. В приложении нет рекламы и подписок - смотри сколько угодно анкет и общайся без ограничений.">
+    <meta property="og:image" content="/web/assets/logo_meta_1024.png">
+
+    <meta property="vk:image" content="/web/assets/logo_meta_320.png">
+
+    <meta itemprop="description" content="Зарегистрируйся бесплатно и без номера телефона. В приложении нет рекламы и подписок - смотри сколько угодно анкет и общайся без ограничений.">
+    <meta itemprop="image" content="/web/assets/logo_meta_1024.png">
+    <meta itemprop="author" content="ООО Мобилфон">
+    <meta itemprop="copyrightHolder" content="ООО Мобилфон">
+
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="manifest" href="/web/assets/ru.manifest.json">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <title>Galaxy *</title>
+  <link href="app.63291b733192068b32ec.css" rel="stylesheet"></head>
+  <body class="mdc-typography" data-theme-background="default" data-theme-dark="undefined" data-user-auth="1"><div id="root"><div class="app app--desktop" style="width: 700px;"><div class="un-auth-user" style="display: none;"><div class="start start--has-users" data-component-name="start" data-component-id="1741450262429"><div class="start__logo"></div>
+    <div class="start__users scroll">
+            <a class="start__user" data-events="1">
+                <img class="start__user__avatar" src="https://galaxy.mobstudio.ru/user_pics/728/7286f83e8d9fb1691863d94980cb814e2.png">
+                <div class="start__user__nick">werlo</div>
+                    <div class="start__user__remove" data-events="1">
+                        <i class="icon-close"></i>
+                    </div>
+            </a>
+            <a class="start__user" data-events="1">
+                <img class="start__user__avatar" src="https://galaxy.mobstudio.ru/user_pics/a33/a3367ad6e41c1f0f1ec4133499cd74e72.png">
+                <div class="start__user__nick">лыццллфлф</div>
+                    <div class="start__user__remove" data-events="1">
+                        <i class="icon-close"></i>
+                    </div>
+            </a>
+            <a class="start__user" data-events="1">
+                <img class="start__user__avatar" src="https://galaxy.mobstudio.ru/user_pics/4cc/4cc3c32e88c063d9ea840d3a0ad13dbb2.png">
+                <div class="start__user__nick">цвуцу3кук</div>
+                    <div class="start__user__remove" data-events="1">
+                        <i class="icon-close"></i>
+                    </div>
+            </a>
+    </div>
+    <div class="start__buttons">
+            <a class="mdc-button mdc-button--success" data-events="1">
+                <div class="mdc-button__label">Создать персонаж</div>
+            </a>
+            <a class="mdc-button mdc-button--black-secondary" data-events="1">
+                <div class="mdc-button__label">Уже есть персонаж</div>
+            </a>
+    </div>
+<div class="start__footer">
+    <div class="start__footer__row1">
+        <div class="start__social">
+                <a class="start__social-icon" href="https://vk.com/galaxy_ru" target="_blank"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_52_280)">
+<path d="M23.9618 17.5553C23.9326 17.4924 23.9054 17.4403 23.8801 17.3985C23.4622 16.6458 22.6635 15.7218 21.4845 14.6264L21.4596 14.6014L21.4472 14.5891L21.4346 14.5765H21.4219C20.8868 14.0664 20.548 13.7234 20.4061 13.5478C20.1465 13.2133 20.0883 12.8748 20.2302 12.5317C20.3305 12.2725 20.707 11.7252 21.359 10.8889C21.702 10.4457 21.9736 10.0904 22.1742 9.82281C23.6209 7.89954 24.2481 6.67055 24.0556 6.13535L23.9809 6.01028C23.9307 5.93499 23.8011 5.8661 23.5923 5.80328C23.383 5.74059 23.1155 5.73023 22.7894 5.772L19.1772 5.79696C19.1187 5.77622 19.0352 5.77815 18.9263 5.80328C18.8176 5.82841 18.7632 5.84102 18.7632 5.84102L18.7003 5.87243L18.6504 5.91016C18.6086 5.93512 18.5626 5.979 18.5124 6.04174C18.4625 6.10425 18.4207 6.17761 18.3873 6.26121C17.994 7.27297 17.5469 8.21365 17.0451 9.0832C16.7357 9.60171 16.4516 10.0511 16.1921 10.4315C15.9329 10.8119 15.7155 11.0921 15.54 11.2718C15.3643 11.4516 15.2057 11.5956 15.0633 11.7044C14.9211 11.8133 14.8126 11.8593 14.7374 11.8425C14.6621 11.8256 14.5911 11.8089 14.5239 11.7922C14.407 11.7169 14.3129 11.6145 14.2419 11.485C14.1707 11.3554 14.1227 11.1922 14.0976 10.9957C14.0726 10.7991 14.0579 10.63 14.0537 10.4878C14.0498 10.3458 14.0516 10.1449 14.06 9.88567C14.0687 9.62635 14.0726 9.4509 14.0726 9.35891C14.0726 9.04111 14.0788 8.69622 14.0913 8.32413C14.1039 7.95204 14.1142 7.65722 14.1227 7.44003C14.1312 7.22262 14.1352 6.99261 14.1352 6.75011C14.1352 6.50762 14.1204 6.31744 14.0913 6.17941C14.0625 6.04156 14.0182 5.90775 13.9599 5.77802C13.9013 5.64843 13.8154 5.54818 13.7028 5.47701C13.5899 5.40593 13.4496 5.34953 13.2826 5.30762C12.8394 5.20733 12.2751 5.15307 11.5893 5.14464C10.0341 5.12794 9.03482 5.22837 8.59165 5.44578C8.41606 5.53764 8.25716 5.66315 8.11509 5.82191C7.96454 6.00593 7.94355 6.10636 8.05223 6.12288C8.554 6.19804 8.90922 6.37785 9.11828 6.66212L9.19362 6.81275C9.25223 6.92144 9.31074 7.11385 9.3693 7.38973C9.42777 7.66562 9.46551 7.9708 9.48211 8.30511C9.52385 8.91561 9.52385 9.4382 9.48211 9.87293C9.44025 10.3078 9.40071 10.6464 9.36297 10.8889C9.32524 11.1314 9.26883 11.3279 9.19362 11.4784C9.11828 11.6289 9.06816 11.7209 9.04303 11.7542C9.01795 11.7876 8.99704 11.8087 8.98043 11.8169C8.87175 11.8586 8.75871 11.8798 8.64173 11.8798C8.52457 11.8798 8.3825 11.8212 8.2153 11.7041C8.04814 11.587 7.87466 11.4261 7.69486 11.2212C7.51505 11.0163 7.31227 10.7299 7.08642 10.362C6.86075 9.99414 6.62661 9.55936 6.38411 9.05768L6.18348 8.69385C6.05806 8.45979 5.88673 8.11898 5.66932 7.67172C5.45178 7.22429 5.2595 6.79149 5.09234 6.37341C5.02553 6.19782 4.92515 6.06414 4.79138 5.97215L4.7286 5.93441C4.68687 5.90103 4.61987 5.86558 4.52797 5.8278C4.43594 5.79006 4.33991 5.763 4.23948 5.74635L0.802868 5.7713C0.45169 5.7713 0.213413 5.85086 0.0879483 6.00975L0.037736 6.08492C0.0126519 6.12678 0 6.19365 0 6.28568C0 6.37767 0.0250841 6.49057 0.0752964 6.62425C0.576979 7.80334 1.12255 8.94047 1.712 10.0358C2.30146 11.1312 2.81369 12.0135 3.24837 12.682C3.68315 13.3511 4.12632 13.9825 4.57788 14.576C5.02944 15.1697 5.32834 15.5502 5.47458 15.7173C5.621 15.8848 5.73601 16.01 5.81961 16.0936L6.13323 16.3945C6.3339 16.5953 6.62858 16.8356 7.01741 17.1157C7.40632 17.3959 7.83688 17.6718 8.30931 17.9438C8.78182 18.2153 9.33152 18.4369 9.95871 18.6083C10.5858 18.7798 11.1962 18.8487 11.7899 18.8155H13.2323C13.5248 18.7902 13.7465 18.6982 13.8971 18.5394L13.947 18.4766C13.9806 18.4267 14.012 18.3491 14.041 18.2448C14.0703 18.1403 14.0849 18.0251 14.0849 17.8999C14.0763 17.5404 14.1037 17.2164 14.1663 16.928C14.2288 16.6396 14.3 16.4222 14.3797 16.2758C14.4594 16.1295 14.5492 16.0061 14.6493 15.906C14.7495 15.8057 14.821 15.745 14.8629 15.724C14.9045 15.703 14.9378 15.6887 14.9628 15.6802C15.1635 15.6133 15.3997 15.678 15.6717 15.8747C15.9435 16.0712 16.1984 16.3138 16.4369 16.6022C16.6752 16.8908 16.9615 17.2146 17.2959 17.5741C17.6305 17.9337 17.9231 18.201 18.1739 18.3769L18.4246 18.5274C18.5921 18.6278 18.8095 18.7198 19.0771 18.8034C19.3443 18.887 19.5783 18.9079 19.7793 18.8661L22.99 18.816C23.3076 18.816 23.5547 18.7634 23.73 18.6591C23.9056 18.5546 24.01 18.4395 24.0436 18.3142C24.0772 18.1888 24.079 18.0466 24.05 17.8876C24.0202 17.7289 23.9909 17.618 23.9618 17.5553Z" fill="black"></path>
+</g>
+<defs>
+<clipPath id="clip0_52_280">
+<rect width="24" height="24" fill="white"></rect>
+</clipPath>
+</defs>
+</svg>
+</a>
+                <a class="start__social-icon" href="https://www.tiktok.com/@galaxy_ru" target="_blank"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.4185 6.8651C20.1917 6.8651 19.0597 6.47557 18.1508 5.81844C17.1083 5.06513 16.3592 3.96013 16.0947 2.68651C16.0292 2.37183 15.994 2.04708 15.9906 1.71429H12.4861V10.8924L12.4819 15.9196C12.4819 17.2637 11.5687 18.4033 10.3029 18.8041C9.93552 18.9204 9.53876 18.9755 9.12563 18.9538C8.5983 18.926 8.10413 18.7735 7.67462 18.5272C6.76061 18.0033 6.1409 17.0528 6.12411 15.9655C6.09766 14.2662 7.53103 12.8807 9.30281 12.8807C9.65254 12.8807 9.98842 12.9354 10.3029 13.0348V10.5262V9.6244C9.97121 9.57732 9.63365 9.55277 9.29231 9.55277C7.35302 9.55277 5.53926 10.3254 4.24276 11.7173C3.26282 12.7692 2.67503 14.1112 2.58434 15.5184C2.46553 17.3671 3.1713 19.1244 4.54001 20.421C4.74112 20.6113 4.95231 20.788 5.17315 20.9509C6.34663 21.8165 7.78126 22.2857 9.29231 22.2857C9.63365 22.2857 9.97121 22.2616 10.3029 22.2145C11.7144 22.0141 13.0168 21.3948 14.0446 20.421C15.3075 19.2246 16.0053 17.6363 16.0129 15.9458L15.9948 8.43851C16.5973 8.88397 17.2561 9.25258 17.9631 9.53869C19.0627 9.98335 20.2286 10.2087 21.4285 10.2083V7.76931V6.86429C21.4294 6.8651 21.4193 6.8651 21.4185 6.8651V6.8651Z" fill="black"></path>
+</svg>
+</a>
+                <a class="start__social-icon" href="https://www.youtube.com/channel/UCeSDkMefExObr2VrX_qMDHg" target="_blank"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M22.7481 7.12763C22.4898 6.16715 21.7325 5.41002 20.7722 5.15139C19.0178 4.67136 11.9999 4.67136 11.9999 4.67136C11.9999 4.67136 4.9824 4.67136 3.22797 5.13319C2.28611 5.39154 1.51036 6.16729 1.25201 7.12763C0.790314 8.88191 0.790314 12.5201 0.790314 12.5201C0.790314 12.5201 0.790314 16.1766 1.25201 17.9125C1.51064 18.8728 2.26763 19.63 3.22811 19.8886C5.00087 20.3688 12.0002 20.3688 12.0002 20.3688C12.0002 20.3688 19.0178 20.3688 20.7722 19.9069C21.7327 19.6485 22.4898 18.8913 22.7484 17.931C23.21 16.1766 23.21 12.5385 23.21 12.5385C23.21 12.5385 23.2285 8.88191 22.7481 7.12763V7.12763ZM9.76562 15.8811V9.15901L15.6013 12.5201L9.76562 15.8811Z" fill="black"></path>
+</svg>
+</a>
+        </div>
+        <div class="start__downloads">
+                    <a class="start__downloads__item" href="https://in-galaxy.com/get/trackingAppStore/promo/25" target="_blank"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24.0654 17.2146C24.0798 16.0893 24.3803 14.9861 24.9388 14.0075C25.4973 13.029 26.2956 12.207 27.2594 11.6182C26.6469 10.7464 25.8384 10.029 24.8982 9.52327C23.9579 9.0175 22.9118 8.73725 21.8434 8.70484C19.529 8.47457 17.3649 10.0637 16.2077 10.0637C15.0505 10.0637 13.2336 8.72792 11.3126 8.77399C10.069 8.81251 8.85658 9.17124 7.79387 9.81498C6.73108 10.4588 5.8541 11.3657 5.24863 12.4473C2.62168 16.9612 4.57741 23.6054 7.08862 27.2557C8.35004 29.0405 9.81976 31.0441 11.7176 30.975C13.6155 30.906 14.2982 29.8235 16.5664 29.8235C18.8347 29.8235 19.4711 30.975 21.4384 30.975C23.4057 30.975 24.725 29.1787 25.9401 27.3708C26.8405 26.0964 27.5355 24.69 28 23.2024C26.8243 22.701 25.8236 21.8652 25.1236 20.7999C24.4235 19.7346 24.0554 18.4873 24.0654 17.2146Z" fill="black"></path>
+<path d="M20.3628 6.30968C21.4607 4.99413 22.0003 3.30483 21.8672 1.6C20.189 1.77232 18.6385 2.57048 17.5275 3.83393C16.9804 4.45052 16.5616 5.169 16.2953 5.94773C16.0291 6.72654 15.9209 7.55015 15.9769 8.37087C16.8166 8.37715 17.6469 8.19515 18.4062 7.83829C19.1656 7.4815 19.8343 6.95902 20.3628 6.30968Z" fill="black"></path>
+</svg>
+App Store</a>
+                    <a class="start__downloads__item" href="https://play.google.com/store/apps/details?id=ru.mobstudio.andgalaxy" target="_blank"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.1648 10.3213L17.946 13.9363L9.04375 3.49487L21.1648 10.3213ZM4.52654 2.84634L15.9208 16.2107L4.34445 29.2097C3.66065 28.6747 3.20001 27.8432 3.20001 26.8516V5.33636C3.20001 4.26044 3.74331 3.37133 4.52654 2.84634ZM8.70266 28.8644L20.8652 21.7636L17.946 18.4851L8.70266 28.8644ZM23.5301 20.2077L19.9711 16.2107L23.8624 11.8405L26.4298 13.2865C28.4488 14.4235 28.4713 17.3229 26.4702 18.4912L23.5301 20.2077Z" fill="black"></path>
+</svg>
+Google Play</a>
+        </div>
+    </div> 
+    <div class="start__footer__row2">
+        <div class="start__footer__row2__copyrights">©&nbsp;2022&nbsp;ООО «Мобилфон». Все права защищены&nbsp;<img src="/web/assets/age_label@2x.png" width="20" height="20"></div>
+        <div class="start__footer__row2__more">
+            <a href="https://in-galaxy.com/privacy?lng=ru" target="_blank">Политика конфиденциальности</a><div class="space space--w10"></div><a href="https://in-galaxy.com/license?lng=ru" target="_blank">Лицензионное соглашение</a>
+                <div class="space space--w10"></div>
+                <a class="start__language" data-events="1">
+                    Русский&nbsp;<img src="/web/assets/dropdown@2x.png" width="12" height="12">
+                </a>
+        </div>
+    </div>
+</div></div><div class="browser browser--un-auth-user" style="display: none;"><div class="loader loader--browser" data-component-name="loader" data-component-id="1741450261870" style="display: none;"><div class="loader__content">
+    <div class="loader__logo"></div>
+</div></div><header class="app-bar mdc-top-app-bar app-bar--browser" data-component-name="appbar" data-component-id="1741450261953" style="display: none;"><div class="mdc-top-app-bar__row">
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                        <div class="material-icons mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-events="1">
+                            <img src="/web/assets/appbar/menu@2x.png">
+                        </div>
+                    <div class="mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-events="1">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.67 3.87001L9.9 2.10001L0 12L9.9 21.9L11.67 20.13L3.54 12L11.67 3.87001Z" fill="#DDEE73"></path>
+</svg>
+
+                    </div>
+                <div class="app-bar__navigation-button">
+                    <div class="app-bar__navigation-button__title">
+                        <span class="mdc-top-app-bar__title app-bar__title"></span>
+                    </div>
+                </div>
+    </section>
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div data-child="app-bar__events"><div class="app-bar-events" style="" data-events="1"><button class="app-bar-button mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-component-name="199" data-component-id="1741450263552" style="">        <div class="app-bar-button__icon"><svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 88C52.4 88 56 84.4 56 80H40C40 84.4 43.56 88 48 88ZM72 64V44C72 31.72 65.44 21.44 54 18.72V16C54 12.68 51.32 10 48 10C44.68 10 42 12.68 42 16V18.72C30.52 21.44 24 31.68 24 44V64L16 72V76H80V72L72 64Z" fill="#DDEE73"></path>
+</svg>
+</div>
+    <div class="app-bar-button__time"></div>
+</button></div></div>
+                <div class="mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button " data-events="1">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="2" width="14" height="14" rx="2" fill="#DDEE73"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 12H4C2.89543 12 2 12.8954 2 14V20C2 21.1046 2.89543 22 4 22H10C11.1046 22 12 21.1046 12 20V18H10V20H4V14H6V12Z" fill="#DDEE73"></path>
+</svg>
+
+                </div>
+    </section>
+</div></header><div class="browser-content browser-content--browser browser-content--browser--un-auth-user" data-component-name="browsercontent" data-component-id="1741450262033"><iframe></iframe></div></div></div><div class="auth-user" style=""><aside class="drawer mdc-drawer mdc-drawer--modal drawer--modal" data-component-name="drawer" data-component-id="1741450262284" style="width: 280px;">            <div class="mdc-drawer__header drawer__header">
+                <div class="mdc-list mdc-list--avatar-list drawer__header__list">
+                        <a class="mdc-list-item drawer__current-user" data-events="1">
+                            <div class="mdc-list-item__graphic drawer__current-user__avatar">
+                                <img src="https://galaxy.mobstudio.ru/user_pics/728/7286f83e8d9fb1691863d94980cb814e2.png">
+                            </div>
+                            <span class="mdc-list-item__text">
+                                <span class="mdc-list-item__primary-text drawer__current-user__nick">werlo</span>
+                                <span class="mdc-list-item__secondary-text"></span>
+                            </span>
+                        </a>
+                        <a class="mdc-list-item drawer__current-user__emotion" data-events="1">
+                            <span class="mdc-list-item__text">
+                                <span class="mdc-list-item__secondary-text">
+                                    Выберите эмоцию
+                            </span>
+                        </span></a>
+                        <a class="mdc-list-item drawer__current-user__balance" data-events="1">
+                            <span class="mdc-list-item__text">
+                                <span class="mdc-list-item__secondary-text">
+                                    <span id="drawer_balance">0.47</span> <div class="smile-big s3" data-smile-id="3"></div>
+                                </span>
+                            </span>
+                        </a>
+                </div>
+                <!--<div class="drawer__header__additional-addons-icon">
+                    <button 
+                        class="mdc-icon-button material-icons drawer__header__additional-addons-icon--show"
+                        data-event="show_drawer_additional_addons"
+                    >
+                        arrow_drop_down
+                    </button>
+                    <button 
+                        class="mdc-icon-button material-icons drawer__header__additional-addons-icon--hide"
+                        data-event="hide_drawer_additional_addons"
+                    >
+                        arrow_drop_up
+                    </button>
+                </div>-->
+            </div>
+            <hr class="mdc-list-divider drawer__divider">
+            <div class="mdc-drawer__content drawer__content scroll">
+                <nav class="mdc-list main-addons">
+                        <a class="mdc-list-item" tabindex="1" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10320.png">
+                            <span class="mdc-list-item__text">8 Марта</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="2" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10372.png">
+                            <span class="mdc-list-item__text">Люди рядом</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="3" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10373.png">
+                            <span class="mdc-list-item__text">Встречи онлайн</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="4" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10018.png">
+                            <span class="mdc-list-item__text">Почта</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="5" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10061.png">
+                            <span class="mdc-list-item__text">Друзья</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="6" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10196.png">
+                            <span class="mdc-list-item__text">Знакомства</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="7" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10069.png">
+                            <span class="mdc-list-item__text">Фото</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="8" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10068.png">
+                            <span class="mdc-list-item__text">Кланы</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="9" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10085.png">
+                            <span class="mdc-list-item__text">Магазин</span>
+                                <div class="mdc-list-item__meta badge" style="background-color: #e66064">
+                                        <div class="badge__text">NEW</div>
+                                </div>
+                        </a>
+                        <a class="mdc-list-item" tabindex="10" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10071.png">
+                            <span class="mdc-list-item__text">Игры</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="11" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10063.png">
+                            <span class="mdc-list-item__text">Лотереи</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="12" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10060.png">
+                            <span class="mdc-list-item__text">Питомцы</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="13" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10064.png">
+                            <span class="mdc-list-item__text">Блоги</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="14" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10288.png">
+                            <span class="mdc-list-item__text">Чат-истории</span>
+                                <div class="mdc-list-item__meta badge" style="background-color: #e66064">
+                                        <div class="badge__text">NEW</div>
+                                </div>
+                        </a>
+                    <hr class="mdc-list-divider drawer__divider">
+                        <a class="mdc-list-item" tabindex="15" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10066.png">
+                            <span class="mdc-list-item__text">Поиск</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="20" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10080.png">
+                            <span class="mdc-list-item__text">Настройки</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="17" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10078.png">
+                            <span class="mdc-list-item__text">Помощь</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="21" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10077.png">
+                            <span class="mdc-list-item__text">Пополнить счёт</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="19" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10364.png">
+                            <span class="mdc-list-item__text">Заработать Авторитет</span>
+                        </a>
+                        <a class="mdc-list-item" tabindex="20" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10365.png">
+                            <span class="mdc-list-item__text">Выход</span>
+                        </a>
+                </nav>
+                <div class="mdc-list additional-addons">
+                        <a class="mdc-list-item" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10080.png">
+                            <span class="mdc-list-item__text">Настройки</span>
+                        </a>
+                        <a class="mdc-list-item" data-events="1">
+                                    <img class="mdc-list-item__graphic drawer__addon__icon" src="https://galaxy.mobstudio.ru/server_pics/adn/2/s8/10077.png">
+                            <span class="mdc-list-item__text">Пополнить счёт</span>
+                        </a>
+                        <a class="mdc-list-item" data-events="1">
+                                    <div class="mdc-list-item__graphic drawer__addon__icon">
+                                        <i class="icon-exit-to-app"></i>
+                                    </div>
+                            <span class="mdc-list-item__text">Выход</span>
+                        </a>
+                </div>
+            </div>
+</aside><div class="dummy mdc-drawer-scrim" data-component-name="dummy" data-component-id="1741450262106"></div><div class="app-content mdc-drawer-app-content"><div class="channel"><div class="loader loader--channel" data-component-name="loader" data-component-id="1741450261974" style="display: none;"><div class="loader__content">
+    <div class="loader__logo"></div>
+</div></div><header class="app-bar mdc-top-app-bar app-bar--channel" data-component-name="appbar" data-component-id="1741450262431"><div class="mdc-top-app-bar__row">
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                            <div class="material-icons mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-events="1">
+                                <img src="/web/assets/appbar/menu@2x.png">
+                            </div>
+                        <a class="mdc-button app-bar__navigation-button" data-events="1">
+                            <span class="mdc-top-app-bar__title app-bar__title">Bowling*3</span>
+                            <span class="badge app-bar__counter">
+                                <div class="badge__text">24</div>
+                            </span>
+                            <div class="app-bar__navigation-button__icon-down">
+                                <img src="/web/assets/appbar/dropdown_1@2x.png">
+                            </div>
+                        </a>
+    </section>
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div data-child="app-bar__events"><div class="app-bar-events" style="" data-events="1"><button class="app-bar-button mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-component-name="199" data-component-id="1741450263772" style="">        <div class="app-bar-button__icon"><svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 88C52.4 88 56 84.4 56 80H40C40 84.4 43.56 88 48 88ZM72 64V44C72 31.72 65.44 21.44 54 18.72V16C54 12.68 51.32 10 48 10C44.68 10 42 12.68 42 16V18.72C30.52 21.44 24 31.68 24 44V64L16 72V76H80V72L72 64Z" fill="#DDEE73"></path>
+</svg>
+</div>
+    <div class="app-bar-button__time"></div>
+</button></div></div>
+                <div class="mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button disabled" data-events="1">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="16" y="22" width="14" height="14" rx="2" transform="rotate(-180 16 22)" fill="#DDEE73"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 12H20C21.1046 12 22 11.1046 22 10V4C22 2.89543 21.1046 2 20 2H14C12.8954 2 12 2.89543 12 4V6H14V4H20V10H18V12Z" fill="#DDEE73"></path>
+</svg>
+
+                </div>
+    </section>
+</div></header><div class="channel-feed scroll" style=""><div class="channel-message channel-message--action" data-component-name="1741450489950_0.34134690953035696" data-component-id="1741450490058"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:14
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450496297_0.8506814045637774" data-component-id="1741450496650"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:14
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450503283_0.48801072279961377" data-component-id="1741450503501"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/066/066fefd0159734df3370bfdacb8f22f92.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>FLAMBOYANT бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450509629_0.3689037663562258" data-component-id="1741450509892"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FLAMBOYANT бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Красный шар x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450514535_0.8541440695648355" data-component-id="1741450515514"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450520687_0.20714605865743607" data-component-id="1741450521406"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450521222_0.22806730300095568" data-component-id="1741450521483"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/0d0/0d03872db60cbbe230050e3eb93fb20f2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            161
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s13" data-smile-id="13"></div> Ищу кольца любые  1к1🔴</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450525956_0.9738561026407724" data-component-id="1741450526169"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>[RAPUNZEL] бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450530423_0.2456485385368219" data-component-id="1741450530574"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Красный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450532817_0.09458959256332067" data-component-id="1741450533219"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>[RAPUNZEL] бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450539038_0.5956521816515616" data-component-id="1741450539096"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Красный шар и выигрывает 2 приза: Малая золотая звезда Авторитета, Любопытная капибара</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450545288_0.23540206739382485" data-component-id="1741450546198"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450549273_0.20215319492841943" data-component-id="1741450549755"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450552367_0.6434253365738383" data-component-id="1741450553138"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:15
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450557495_0.8011588667578371" data-component-id="1741450557807"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:15
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Большой подарок, Малая золотая звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450564746_0.6226900443202357" data-component-id="1741450565070"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:16
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450569664_0.7290893144233719" data-component-id="1741450570048"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:16
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 3 приза: Малый подарок, Большой подарок, Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450572888_0.41689450266021577" data-component-id="1741450573513"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:16
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450579015_0.5584631540531595" data-component-id="1741450579557"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:16
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Серебряная звезда Авторитета, Огненное ядро</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450593867_0.7376353423709434" data-component-id="1741450594795"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:16
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450598551_0.8261860029610797" data-component-id="1741450598994"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:16
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450600630_0.7261693602454367" data-component-id="1741450601369"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:16
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450606127_0.09434243275353937" data-component-id="1741450606182"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:16
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Большой подарок, Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450613172_0.41630389976929205" data-component-id="1741450613221"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:16
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450617893_0.008688376897342476" data-component-id="1741450618088"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:16
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450621529_0.4906745336510465" data-component-id="1741450622169"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450626221_0.11539133806421464" data-component-id="1741450626616"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450634849_0.9571018864051983" data-component-id="1741450635429"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450640756_0.1371584258018319" data-component-id="1741450641493"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450647500_0.2807103162176914" data-component-id="1741450647720"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/636/636a34d3af6fd837347aeed20332b9db2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>Лююбовь бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450653890_0.4553717406739126" data-component-id="1741450654504"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Лююбовь бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Красный шар x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450659844_0.1171171608252406" data-component-id="1741450660580"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450660457_0.5423296404233808" data-component-id="1741450660750"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/479/479c67cc401bf5a87af63596c2cdfef52.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Лёхич
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s1" data-smile-id="1"></div> Меняю мастику 1к3 электро 🔵</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450664530_0.2771140750833643" data-component-id="1741450665262"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450666499_0.4131025776374684" data-component-id="1741450666551"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450671632_0.8114400714362819" data-component-id="1741450672154"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:17
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Большой подарок, Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450678753_0.9230788508640981" data-component-id="1741450679519"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:17
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450684217_0.05841912485380418" data-component-id="1741450685180"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 3 приза: Малый подарок, Большой подарок, Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450686210_0.6765987057934826" data-component-id="1741450687205"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450692364_0.27373994144452474" data-component-id="1741450692919"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Серебряная звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450702881_0.310173334759944" data-component-id="1741450703157"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450703319_0.7559651471131836" data-component-id="1741450703691"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/718/718c4a01d009f92f1c385b8b2e5c3a2b2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            ТайФрутс
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s19" data-smile-id="19"></div> Ищу  ОТМ🗝️1/1🔵 🧩мас1/2🔵</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450707401_0.4683419689368329" data-component-id="1741450707847"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450712567_0.9431310783441749" data-component-id="1741450713459"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450719159_0.5662041314330446" data-component-id="1741450719608"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450723915_0.4521225154056603" data-component-id="1741450724499"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450726958_0.7701220660829564" data-component-id="1741450727681"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450732082_0.4174306503908751" data-component-id="1741450732492"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:18
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450739679_0.9692560386562439" data-component-id="1741450739952"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:18
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450744596_0.8880134457045274" data-component-id="1741450745598"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450746658_0.21828367373465518" data-component-id="1741450747231"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450751874_0.6370390075299914" data-component-id="1741450752436"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450759549_0.7945709104083072" data-component-id="1741450759799"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450765702_0.6939264853233134" data-component-id="1741450766582"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450771314_0.8873125432234517" data-component-id="1741450771542"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450776645_0.30666785852085443" data-component-id="1741450777321"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450777716_0.07005655231057806" data-component-id="1741450778208"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450782901_0.852269496501362" data-component-id="1741450783070"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450789892_0.6982469863992786" data-component-id="1741450790216"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450794676_0.6474032820579483" data-component-id="1741450794694"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:19
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450796764_0.8627771701032974" data-component-id="1741450796791"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:19
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450801973_0.3875825081229505" data-component-id="1741450802081"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450809881_0.5373049913961776" data-component-id="1741450810654"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:20
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450813457_0.6375106683956677" data-component-id="1741450814387"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/106/106dfc031b2c9132191d0fbfd81277b52.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            RimuruTempesT
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s13" data-smile-id="13"></div> ИЩУ КАПИБАРЫ 2/1🔥 <div class="smile-big s13" data-smile-id="13"></div>NEED CAPYBARA 2/1🔥</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450816320_0.1632049885807101" data-component-id="1741450817048"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450823101_0.24420865870870956" data-component-id="1741450823287"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:20
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450829765_0.31953050705550945" data-component-id="1741450830313"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450835617_0.1182987426299209" data-component-id="1741450835901"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/066/066fefd0159734df3370bfdacb8f22f92.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:20
+            </div>
+            <div>FLAMBOYANT бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450841842_0.8245255399597196" data-component-id="1741450842625"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FLAMBOYANT бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Отмычка x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450848617_0.26960185948735194" data-component-id="1741450849559"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:20
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450852924_0.07146593566359649" data-component-id="1741450853782"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:20
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450855479_0.21485578872546562" data-component-id="1741450855810"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:20
+            </div>
+            <div>FeRaMoN бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450861018_0.8754708336275436" data-component-id="1741450861664"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Красный шар и выигрывает 3 приза: Большой подарок, Малая золотая звезда Авторитета, Заботливая капибара</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450868408_0.10631634723331107" data-component-id="1741450868462"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:21
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450874543_0.6102626533238675" data-component-id="1741450875233"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450880127_0.41762260736155565" data-component-id="1741450880647"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:21
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450886004_0.8408869482193104" data-component-id="1741450886036"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/0d0/0d03872db60cbbe230050e3eb93fb20f2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            161
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s13" data-smile-id="13"></div> Ищу кольца любые  1к1🔴</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450886990_0.8478999191531409" data-component-id="1741450887163"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450892496_0.19081128704003936" data-component-id="1741450892743"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/636/636a34d3af6fd837347aeed20332b9db2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:21
+            </div>
+            <div>Лююбовь бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450898297_0.4779041365795149" data-component-id="1741450898359"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Лююбовь бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Красный шар x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450904227_0.5510878535261838" data-component-id="1741450904583"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:21
+            </div>
+            <div>[RAPUNZEL] бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450909427_0.017178280279919633" data-component-id="1741450909501"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450911288_0.7834870528596551" data-component-id="1741450911352"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:21
+            </div>
+            <div>[RAPUNZEL] бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450916377_0.5962956379362301" data-component-id="1741450917242"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:21
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Красный шар и выигрывает Малая золотая звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450922320_0.10202290485393228" data-component-id="1741450922402"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450925485_0.4170838715515848" data-component-id="1741450926033"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/8a9/8a96e394c8821112ac79df276172bb3d2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            YARN
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s2" data-smile-id="2"></div> 20 Clay here X 165🔥</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450926476_0.642798933766688" data-component-id="1741450927193"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450929786_0.39812796711902343" data-component-id="1741450930641"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450930688_0.6108493184532093" data-component-id="1741450931267"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/718/718c4a01d009f92f1c385b8b2e5c3a2b2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            ТайФрутс
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s19" data-smile-id="19"></div> Ищу  ОТМ🗝️1/1🔵 🧩мас1/2🔵</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450934460_0.5160202773842286" data-component-id="1741450934549"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741450940179_0.9348525291584293" data-component-id="1741450941152"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/8a9/8a96e394c8821112ac79df276172bb3d2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            YARN
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s2" data-smile-id="2"></div> 20 Clay here X 165🔥</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450943186_0.08591497645316348" data-component-id="1741450943432"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>Умру бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450949182_0.8787581667530486" data-component-id="1741450949511"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450956061_0.20755492469087788" data-component-id="1741450956813"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450960950_0.9463308423195158" data-component-id="1741450961639"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450964735_0.26825882156077174" data-component-id="1741450965218"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450969847_0.9328709687831798" data-component-id="1741450969988"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:22
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малая золотая звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450978000_0.02080545272908707" data-component-id="1741450978265"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/636/636a34d3af6fd837347aeed20332b9db2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:22
+            </div>
+            <div>Лююбовь бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450984083_0.9644709621035557" data-component-id="1741450984469"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:23
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Лююбовь бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Отмычка x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741450990301_0.6929260672134709" data-component-id="1741450990630"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/636/636a34d3af6fd837347aeed20332b9db2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:23
+            </div>
+            <div>Лююбовь бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741450996842_0.9093780572906158" data-component-id="1741450997664"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:23
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Лююбовь бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Мастика x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451003776_0.8012750101184267" data-component-id="1741451004363"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:23
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451007855_0.17668181003874617" data-component-id="1741451007998"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:23
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451012598_0.5000607428228023" data-component-id="1741451013466"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:23
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451017736_0.586877679888681" data-component-id="1741451017866"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:23
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451025367_0.9773654297256085" data-component-id="1741451025799"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:23
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451031387_0.2890575148299226" data-component-id="1741451031742"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:23
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451037881_0.25373475170067494" data-component-id="1741451038309"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:23
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451044542_0.3217650032013559" data-component-id="1741451044867"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:24
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451049625_0.3379196277165071" data-component-id="1741451050602"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>Умру бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451055826_0.5989399234215858" data-component-id="1741451056649"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:24
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451062405_0.5002104475349018" data-component-id="1741451062566"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451067573_0.7764494559016466" data-component-id="1741451067612"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:24
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451069955_0.04718956979700706" data-component-id="1741451070969"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451075484_0.690866620013026" data-component-id="1741451076070"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:24
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451082805_0.3378893680080679" data-component-id="1741451082974"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>Умру бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451089431_0.6005422967321665" data-component-id="1741451089661"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:24
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Мастика x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451093762_0.41083655021366705" data-component-id="1741451094475"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>МЕХЭК бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451099175_0.913800263093717" data-component-id="1741451099420"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:24
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451105778_0.6866048743243007" data-component-id="1741451105802"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:25
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 6 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Семейная капибара, Задумчивая капибара, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451111857_0.07305491295714539" data-component-id="1741451112548"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>Умру бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451117354_0.11584730805031107" data-component-id="1741451117478"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:25
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451119901_0.661151489908421" data-component-id="1741451120723"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>Умру бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451126052_0.3236831146700341" data-component-id="1741451126909"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:25
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Красный шар и выигрывает 2 приза: Малая золотая звезда Авторитета, Серебряная звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451132364_0.43505941744198484" data-component-id="1741451132799"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/c73/c73a2a20d208f98cffe1efaa94ddf0462.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>{{^maha^}} бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451136596_0.8486363733192239" data-component-id="1741451137177"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451142513_0.6601267938116084" data-component-id="1741451143154"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:25
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451149291_0.41010710787461857" data-component-id="1741451150166"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451154400_0.8374040596716639" data-component-id="1741451155096"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:25
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451156448_0.3557826434456708" data-component-id="1741451156979"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:25
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451162175_0.8427784505847433" data-component-id="1741451162651"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:26
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Большой подарок, Малая золотая звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451169289_0.4959735707545718" data-component-id="1741451170163"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:26
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451175591_0.02182765448647328" data-component-id="1741451175809"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:26
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451182133_0.7542123581576796" data-component-id="1741451182786"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/c73/c73a2a20d208f98cffe1efaa94ddf0462.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:26
+            </div>
+            <div>{{^maha^}} бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451186253_0.7419268926338161" data-component-id="1741451186456"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:26
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>{{^maha^}} бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451190781_0.6597262881990094" data-component-id="1741451190861"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/c73/c73a2a20d208f98cffe1efaa94ddf0462.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:26
+            </div>
+            <div>{{^maha^}} бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451195733_0.9722354714879426" data-component-id="1741451195879"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:26
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>{{^maha^}} бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451204311_0.010013090560746729" data-component-id="1741451204987"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:26
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451211354_0.6908996199542581" data-component-id="1741451211591"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:26
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 6 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Любопытная капибара, Нежная капибара, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451217029_0.5177496681774669" data-component-id="1741451217757"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:26
+            </div>
+            <div>[RAPUNZEL] бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451224452_0.11628653609433393" data-component-id="1741451224961"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Красный шар x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451229660_0.6825917707193401" data-component-id="1741451230118"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/c73/c73a2a20d208f98cffe1efaa94ddf0462.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:27
+            </div>
+            <div>{{^maha^}} бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451233823_0.2746096284639459" data-component-id="1741451234632"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>{{^maha^}} бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451238172_0.9356239315449326" data-component-id="1741451238890"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/c73/c73a2a20d208f98cffe1efaa94ddf0462.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:27
+            </div>
+            <div>{{^maha^}} бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451243283_0.6503893105948153" data-component-id="1741451244192"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>{{^maha^}} бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451250592_0.5372647631253911" data-component-id="1741451251206"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:27
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451256909_0.07262516652674367" data-component-id="1741451257075"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 6 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Задумчивая капибара, Любопытная капибара, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451261939_0.10762550422983264" data-component-id="1741451262088"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:27
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741451265316_0.0995184848502284" data-component-id="1741451266208"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/462/462a076525676e1eebf60de9e8c99cb32.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Хасхад
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s8" data-smile-id="8"></div> <div class="smile-big s19" data-smile-id="19"></div>ищу отмычки по 1🔵 эль</div>
+    </div>
+</div></div><div class="channel-message channel-message--text channel-message--offline" data-component-name="1741451267575_0.54422942807523" data-component-id="1741451268484"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/462/462a076525676e1eebf60de9e8c99cb32.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Хасхад
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s19" data-smile-id="19"></div>ищу простые отмычки по 1 🔵 эль, мастику по 2 🔵 эль</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451268594_0.3614702471049174" data-component-id="1741451268919"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451274315_0.973650454101535" data-component-id="1741451274367"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:27
+            </div>
+            <div>Умру бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451279140_0.7954224626319528" data-component-id="1741451279761"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:27
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451281902_0.8725536654540866" data-component-id="1741451282121"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>Умру бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451287065_0.4953159786701309" data-component-id="1741451287119"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741451292602_0.9574708802639487" data-component-id="1741451293526"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/718/718c4a01d009f92f1c385b8b2e5c3a2b2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            ТайФрутс
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s19" data-smile-id="19"></div> Ищу  ОТМ🗝️1/1🔵 🧩мас1/2🔵</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451294269_0.26012866084693953" data-component-id="1741451294825"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>FeRaMoN бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451300629_0.22769884564296472" data-component-id="1741451300976"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Малая золотая звезда Авторитета x2, Красный шар x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451306584_0.37827897784835596" data-component-id="1741451307141"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451311784_0.524267838173929" data-component-id="1741451312481"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451314761_0.22534800532647403" data-component-id="1741451315165"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>FeRaMoN бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451321358_0.2884159165360196" data-component-id="1741451321771"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Красный шар и выигрывает 3 приза: Зелёный шар, Смелая капибара, Серебряное кольцо</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451326755_0.24462271750190578" data-component-id="1741451327740"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451331453_0.8685973977828954" data-component-id="1741451331835"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451333561_0.405657163890381" data-component-id="1741451333798"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:28
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451338523_0.8343008208933693" data-component-id="1741451339025"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:28
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451345981_0.46638403631303005" data-component-id="1741451346885"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>МЕХЭК бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451351063_0.5022039611966236" data-component-id="1741451351351"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:29
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Красный шар и выигрывает 3 приза: Малый подарок, Большой подарок, Малая золотая звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451354946_0.6344098310505661" data-component-id="1741451355134"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451361105_0.10086877562417507" data-component-id="1741451361980"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:29
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 2 приза: Отмычка x2, Серебряное кольцо x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451367591_0.8175361608362923" data-component-id="1741451367698"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>[RAPUNZEL] бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451373420_0.2107584421682862" data-component-id="1741451373744"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:29
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451376134_0.016592084269853258" data-component-id="1741451377154"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/4e7/4e76b70e34d8cc29b12c04ab1d8002dd2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>[RAPUNZEL] бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451382430_0.4887253672717504" data-component-id="1741451383104"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:29
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>[RAPUNZEL] бросает Красный шар и выигрывает 3 приза: Малая золотая звезда Авторитета, Дружелюбная капибара, Огненное ядро</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451387882_0.25410416271633074" data-component-id="1741451388583"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451392342_0.3545137307068742" data-component-id="1741451393099"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:29
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451395481_0.5066555762778777" data-component-id="1741451395513"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:29
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451400918_0.5227519066814026" data-component-id="1741451401724"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Большой подарок, Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--text channel-message--offline" data-component-name="1741451404028_0.6741577707905011" data-component-id="1741451404740"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/107/1074c523fa53de8d7c1408d79d6f7b872.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            ][Заюшка][
+        </span>
+    <div class="channel-message__content__text">
+            <div>Меняю 223 разрывные ядра 1к1 мастика</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451408656_0.751083012671931" data-component-id="1741451409090"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:30
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451415365_0.053795037145977664" data-component-id="1741451416023"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 6 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Праздничная капибара, Удивительная капибара, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451421319_0.24104184663647876" data-component-id="1741451421937"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:30
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451426057_0.3016604223513255" data-component-id="1741451426246"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Малый подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451429316_0.8647338879133122" data-component-id="1741451429804"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:30
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451433923_0.7698769334046522" data-component-id="1741451434927"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451442313_0.2747082857217509" data-component-id="1741451442553"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:30
+            </div>
+            <div>FeRaMoN бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451446767_0.9492456968403045" data-component-id="1741451447161"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451450794_0.14066239826851534" data-component-id="1741451450905"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/23b/23bd2011432469449cbca56d1f089ea22.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:30
+            </div>
+            <div>FeRaMoN бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451457008_0.7201286158815028" data-component-id="1741451457859"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:30
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>FeRaMoN бросает Красный шар и выигрывает 3 приза: Малая золотая звезда Авторитета, Красный шар, Серебряное кольцо</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451463478_0.37249453161923385" data-component-id="1741451464288"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:31
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451470121_0.007245230288176252" data-component-id="1741451470967"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>МЕХЭК бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Серебряная звезда Авторитета x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451475888_0.09606889622542547" data-component-id="1741451476361"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:31
+            </div>
+            <div>Умру бросает Зелёный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451480598_0.6007589080404232" data-component-id="1741451481012"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Зелёный шар и выигрывает 2 приза: Малый подарок, Большой подарок</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451484550_0.14438567705919936" data-component-id="1741451485215"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:31
+            </div>
+            <div>Умру бросает Красный шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--emotion channel-message--text channel-message--offline" data-component-name="1741451487047_0.4173449433950145" data-component-id="1741451487429"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/249/249ec5ba8873024182b797e555f723eb2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            [[Ромашка]]
+        </span>
+    <div class="channel-message__content__text">
+            <div><div class="smile-big s10" data-smile-id="10"></div> ИЩУ ПАРОЧКУ,💋,ОБЬЯТИЯ 123 по🔥,сер</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451491219_0.7625134102048521" data-component-id="1741451491405"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Красный шар и выигрывает 2 приза: Зелёный шар, Серебряная звезда Авторитета</div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451497209_0.5877543571523793" data-component-id="1741451497748"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/e28/e28443ca578e17439d97fe291aac3b3c2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:31
+            </div>
+            <div>Умру бросает Электрический шар</div>
+    </div>
+</div></div><div class="channel-message channel-message--advertisement channel-message--text" data-component-name="1741451503234_0.09051742111317806" data-component-id="1741451503622"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/379/379d439c1eb942d0c2398ab908e8701e2.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            Bowling*3
+        </span>
+    <div class="channel-message__content__text">
+            <div>Умру бросает Электрический шар и выигрывает 5 призов: Малый подарок x2, Большой подарок x2, Зелёный шар x2, Отмычка x2, Огненное ядро x2</div>
+    </div>
+</div></div><div class="channel-message channel-message--text" data-component-name="1741451507169_0.35294057300651827" data-component-id="1741451507562"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/929/929a3d225aa5c110b64dca55fe0199b72.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+        <span class="channel-message__content__title">
+                <div class="channel-message__time">
+                    19:31
+                </div>
+            ChoColate_BaBe
+        </span>
+    <div class="channel-message__content__text">
+            <div>{{^maha^}}, <div class="smile-big s2" data-smile-id="2"></div></div>
+    </div>
+</div></div><div class="channel-message channel-message--action" data-component-name="1741451507973_0.5057209141510628" data-component-id="1741451508667"><div class="channel-message__avatar" data-events="1">
+                <img src="https://galaxy.mobstudio.ru/user_pics/638/6381d74d0626705441b11a406eee4f452.png">
+</div>
+<div class="channel-message__content" data-events="1">   
+    <div class="channel-message__content__text">
+            <div class="channel-message__time">
+                19:31
+            </div>
+            <div>МЕХЭК бросает Электрический шар</div>
+    </div>
+</div></div></div><div class="channel-feed-button mdc-icon-button" data-component-name="channelfeedbutton" data-component-id="1741450261798" data-events="1" style="display: none;"><i class="icon-down"></i></div><div class="channel-flies"></div><form class="channel-new-message" data-component-name="channelnewmessage" data-component-id="1741450262144" style="">        <div class="channel-new-message__content text-field-container">
+            <div class="mdc-icon-button channel-new-message__button flex-center" data-events="1">
+                <img src="/web/assets/chat/light/smile@2x.png">
+            </div>
+            <div class="mdc-icon-button channel-new-message__button flex-center" id="channel-new-message__remove-channel-target-user-button" data-events="1">
+                <img src="/web/assets/chat/close_address@2x.png">
+            </div>
+            <div class="channel-new-message__text-field">
+                <input type="text" class="channel-new-message__text-field__input" id="channel-new-message__text-field-input" placeholder="Введите текст сообщения" maxlength="200" name="text" autocomplete="off" data-caret-position="11">
+                <div class="mdc-line-ripple channel-new-message__ripple"></div>
+            </div>
+            <input type="hidden" name="target_user_id" value="39858337" id="channel-new-message__target-user-id-input">
+            <button class="mdc-icon-button channel-new-message__button flex-center" id="channel-new-message__send-button">
+                <img src="/web/assets/chat/send_2@2x.png">
+            </button>
+        </div>
+</form><div class="planet" data-component-name="planet" data-component-id="1741450262472" style="">        <div id="planet_stat"></div>
+        <canvas class="planet__interior" width="700" height="172"></canvas>
+        <canvas class="planet__weather" data-id="1" width="700" height="172"></canvas>
+        <canvas class="planet__items" data-id="-1" width="700" height="172"></canvas>
+        <canvas class="planet__items" data-id="aura" width="700" height="172"></canvas>
+        <canvas class="planet__items" data-id="0" width="700" height="172"></canvas>
+        <canvas class="planet__items" data-id="1" width="700" height="172"></canvas>
+        <canvas class="planet__weather" data-id="2" width="700" height="172"></canvas>
+        <div class="planet__events" data-event-mouse-events="1" data-events="1"></div>
+        <div class="planet__item-name-container is-nick-name" data-child="planet-item-name"></div>
+        <div class="planet__item-name-container is-clan" data-child="planet-item-clan"></div>
+        <div class="planet__button-container is-left is-bottom" data-child="planet-button-select-me-left"></div>
+        <div class="planet__button-container is-left is-top" data-child="planet-button-select-item-left"></div>
+        <div class="planet__button-container is-right is-top" data-child="planet-button-select-item-right"></div>
+        <div class="planet__button-container is-right is-bottom" data-child="planet-button-select-me-right"></div>
+</div><div class="planet-bar" data-component-name="planetbar" data-component-id="1741450262707" style="">        <div class="planet-bar__content">
+            <div class="mdc-icon-button planet-bar__button planet-bar__button__action" data-events="1">
+                <img src="/web/assets/chat/light/action@2x.png">
+            </div>
+            <div class="
+                    planet-bar__item-name
+                    
+                " data-events="1">
+                <div class="planet-bar__item-name__name">Bowling*3</div>
+            </div>
+                <div class="mdc-icon-button planet-bar__button planet-bar__button__select-me planet-bar__button__select-me--right" data-events="1">
+                    <img src="/web/assets/chat/tome_r@2x.png">
+                </div>
+                <div class="mdc-icon-button planet-bar__button planet-bar__button__select-item planet-bar__button__select-item--right" data-events="1">
+                    <img src="/web/assets/chat/light/right@2x.png">
+                </div>
+             <div class="mdc-icon-button planet-bar__button planet-bar__button__fly" data-events="1">
+                <img src="/web/assets/chat/light/rocket@2x.png">
+            </div>
+        </div>
+</div><div class="planet-user-emotion" data-component-name="planetuseremotion" data-component-id="1741450262533" style="display: none;" data-events="1">11 процентов до повелителя</div><div class="channel-astral" data-component-name="channelastral" data-component-id="1741450261895" style="display: none;"><img class="channel-astral__image" src="">
+<div class="channel-astral__title">выбрать планету</div>
+<div class="channel-astral__text">Сейчас ваш персонаж не находится ни на одной из планет. Вы можете выбрать планету или сменить персонаж.</div>
+</div></div><div class="browser browser--auth-user" style="display: none;"><div class="loader loader--browser" data-component-name="loader" data-component-id="1741450262502" style="display: none;"><div class="loader__content">
+    <div class="loader__logo"></div>
+</div></div><header class="app-bar mdc-top-app-bar app-bar--browser" data-component-name="appbar" data-component-id="1741450262389"><div class="mdc-top-app-bar__row">
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                        <div class="material-icons mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-events="1">
+                            <img src="/web/assets/appbar/menu@2x.png">
+                        </div>
+                    <div class="mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-events="1">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.67 3.87001L9.9 2.10001L0 12L9.9 21.9L11.67 20.13L3.54 12L11.67 3.87001Z" fill="#DDEE73"></path>
+</svg>
+
+                    </div>
+                <div class="app-bar__navigation-button">
+                    <div class="app-bar__navigation-button__title">
+                        <span class="mdc-top-app-bar__title app-bar__title"></span>
+                    </div>
+                </div>
+    </section>
+    <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                <div data-child="app-bar__events"><div class="app-bar-events" style="" data-events="1"><button class="app-bar-button mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button" data-component-name="199" data-component-id="1741450263354" style="">        <div class="app-bar-button__icon"><svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 88C52.4 88 56 84.4 56 80H40C40 84.4 43.56 88 48 88ZM72 64V44C72 31.72 65.44 21.44 54 18.72V16C54 12.68 51.32 10 48 10C44.68 10 42 12.68 42 16V18.72C30.52 21.44 24 31.68 24 44V64L16 72V76H80V72L72 64Z" fill="#DDEE73"></path>
+</svg>
+</div>
+    <div class="app-bar-button__time"></div>
+</button></div></div>
+                <div class="mdc-top-app-bar__navigation-icon app-bar__navigation-icon mdc-icon-button " data-events="1">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="2" width="14" height="14" rx="2" fill="#DDEE73"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 12H4C2.89543 12 2 12.8954 2 14V20C2 21.1046 2.89543 22 4 22H10C11.1046 22 12 21.1046 12 20V18H10V20H4V14H6V12Z" fill="#DDEE73"></path>
+</svg>
+
+                </div>
+    </section>
+</div></header><div class="browser-content browser-content--browser browser-content--browser--auth-user" data-component-name="browsercontent" data-component-id="1741450261881"><iframe></iframe></div></div></div></div><div class="dialog mdc-dialog" data-component-name="dialog" data-component-id="1741450261868" role="alertdialog"></div><div class="menu mdc-menu mdc-menu-surface" data-component-name="menu" data-component-id="1741450262166" tabindex="-1"><ul class="mdc-list -list" role="menu" aria-hidden="true" aria-orientation="vertical">
+</ul></div><div class="snackbar mdc-snackbar mdc-snackbar--leading" data-component-name="snackbar" data-component-id="1741450261929"><div class="mdc-snackbar__surface">
+    <div class="mdc-snackbar__label" role="status" aria-live="polite">
+            <div class="snackbar-content">
+                g1741449945: <div class="smile-big s96" data-smile-id="96"></div>Дешевле чем у других<div class="smile-big s19" data-smile-id="19"></div> <div class="smile-big s82" data-smile-id="82"></div>Самые низкие цены только у нас!  <div class="smile-big s111" data-smile-id="111"></div>Все игровые предметы и
+            </div>
+    </div>
+    <div class="mdc-snackbar__actions">
+        <button class="mdc-icon-button mdc-snackbar__dismiss material-icons" title="Dismiss">close</button>
+    </div>
+</div></div><div class="bottom-sheet bottom-sheet--drawer-is-modal visible" data-component-name="bottomsheet" data-component-id="1741450262516"><div class="bottom-sheet__surface">
+    <div class="bottom-sheet__content bottom-sheet-html" style="height: 210px;">
+        <div data-child="bottom-sheet__html"><div class="browser-content browser-content--bottom-sheet" data-component-name="bottom-sheet__html" data-component-id="1741450261890" style="height: 210px;"><iframe src="https://galaxy.mobstudio.ru/web/assets/index.html?19&amp;page_action=user_info_short&amp;p=25" style="visibility: visible;"></iframe></div></div>    </div>
+    <div class="bottom-sheet__loader" data-child="bottom-sheet__loader"><div class="loader loader--bottom-sheet" data-component-name="bottom-sheet__loader" data-component-id="1741450262187" style="display: none;"><div class="loader__content">
+    <div class="loader__logo"></div>
+</div></div></div>
+        <div class="bottom-sheet__actions">
+            <button type="button" class="mdc-button mdc-dialog__button" data-events="1">Подробнее</button>
+        </div>
+</div>
+<div class="bottom-sheet__scrim"></div></div><div class="cookies-tip" data-component-name="cookiestip" data-component-id="1741450262200" style="display: none;"><i class="material-icons" data-events="1">close</i>
+<div>
+     <a href="" target="_blank"></a>
+</div></div></div></div>
+    <div class="loader loader--body">
+      <div class="loader__logo"></div>
+    </div>
+
+    <div id="metrika"></div>
+  <script type="text/javascript" src="app.63291b733192068b32ec.js"></script>
+</body></html>
